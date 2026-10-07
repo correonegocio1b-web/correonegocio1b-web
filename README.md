@@ -10,7 +10,7 @@
 
 ## Proyectos
 
-### 🧪 [Experimento A/B en una landing page](https://github.com/correonegocio1b-web/ab-testing-landing-page)
+### 🧪 [Experimento A/B en una landing page](https://github.com/correonegocio1b-web/ab-testing-landing-page_new)
 Evaluación de un experimento A/B con 40,000 usuarios para decidir qué versión de una página de inicio implementar.
 - Validé el experimento antes de probar nada: grupos balanceados, sin usuarios expuestos a ambas versiones y reglas de negocio consistentes.
 - Elegí la prueba según los supuestos: t de Welch (tras Levene), prueba z de proporciones y χ² de independencia.
